@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/80818640/198227540-cd750182-a9bb-45ca-a039-956fa7f581d5.png)
 ## 2022.11.11 네 번째 모임<br>
 <b> 11:30 ~ 14:00 (2시간 반)</b><br>
-[학습일지]
+[학습일지](https://github.com/lbd0/HanCoMo/tree/main/2022.11.11)
  ![image](https://user-images.githubusercontent.com/80818640/201249170-527c0958-92c6-4624-8525-33dc808f90b5.png)
 
 
