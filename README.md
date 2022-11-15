@@ -15,6 +15,10 @@
 <b> 11:30 ~ 14:00 (2시간 반)</b><br>
 [학습일지](https://github.com/lbd0/HanCoMo/tree/main/2022.11.11)
  ![image](https://user-images.githubusercontent.com/80818640/201249170-527c0958-92c6-4624-8525-33dc808f90b5.png)
+## 2022.11.15 다섯 번째 모임<br>
+<b> 12:00 ~ 15:00 (3시간)</b><br>
+[학습일지]
+![image](https://user-images.githubusercontent.com/80818640/201832493-03b7600b-0467-4b5a-98d7-7c6ba8236d55.png)
 
 
 
