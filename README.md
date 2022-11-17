@@ -22,7 +22,7 @@
 
 ## 2022.11.17 여섯 번째 모임<br>
 <b> 17:00 ~ 20:00 (3시간)</b><br>
-[학습일지]
+[학습일지](https://github.com/lbd0/HanCoMo/tree/main/2022.11.17)
 ![image](https://user-images.githubusercontent.com/80818640/202389844-cf7f764c-fd93-46db-9445-f3dea9debaa1.png)
 
 
